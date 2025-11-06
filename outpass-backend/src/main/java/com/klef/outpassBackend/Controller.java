@@ -11,9 +11,6 @@ import java.util.*;
 @RestController
 @CrossOrigin(origins="*")
 public class Controller {
-	
-	
-	
 	@Autowired
 	private Repository repo;
 	
